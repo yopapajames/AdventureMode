@@ -1,0 +1,13 @@
+{
+  "name": "AdventureModeUI",
+  "description": "UI for AdventureMode App",
+  "main": "src/index.html",
+  "authors": [
+    "Team Destination"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

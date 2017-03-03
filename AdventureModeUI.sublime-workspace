@@ -1,0 +1,525 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ionic",
+				"ionicPlatform"
+			],
+			[
+				"ion",
+				"ionicPlatform"
+			],
+			[
+				"stat",
+				"statusText"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/index.html",
+			"settings":
+			{
+				"buffer_size": 3298,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bower.json",
+			"settings":
+			{
+				"buffer_size": 237,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/js/app.js",
+			"settings":
+			{
+				"buffer_size": 1594,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/css/app.css",
+			"settings":
+			{
+				"buffer_size": 411,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Notes.txt",
+			"settings":
+			{
+				"buffer_size": 710,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/yopapajames/Documents/Hackathons/MakersHustleHarder2017/AdventureModeUI",
+		"/C/Users/yopapajames/Documents/Hackathons/MakersHustleHarder2017/AdventureModeUI/src",
+		"/C/Users/yopapajames/Documents/Hackathons/MakersHustleHarder2017/AdventureModeUI/src/css",
+		"/C/Users/yopapajames/Documents/Hackathons/MakersHustleHarder2017/AdventureModeUI/src/images",
+		"/C/Users/yopapajames/Documents/Hackathons/MakersHustleHarder2017/AdventureModeUI/src/js"
+	],
+	"file_history":
+	[
+		"/C/Users/yopapajames/Documents/Hackathons/MakersHustleHarder2017/hello-gm/bower.json",
+		"/C/Users/yopapajames/Documents/Hackathons/MakersHustleHarder2017/hello-gm/src/css/app.css",
+		"/C/Users/yopapajames/Documents/Hackathons/MakersHustleHarder2017/hello-gm/src/views/navigation.html",
+		"/C/Users/yopapajames/Documents/Hackathons/MakersHustleHarder2017/hello-gm/src/views/parameters.html",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/rest-server-passport/routes/verify.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/rest-server-passport/routes/users.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/rest-server-passport/routes/dishRouter.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/rest-server-passport/models/user.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/rest-server-passport/models/dishes.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/rest-server-passport/config.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/rest-server-passport/app.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/rest-server-passport/routes/promoRouter.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/rest-server-passport/routes/leaderRouter.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/rest-server/routes/promoRouter.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/rest-server/routes/leaderRouter.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-mongoose/promotionserver.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-mongoose/leaderserver.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-mongoose/models/leadership.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-mongoose/models/promotions.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-mongoose/dishserver.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-mongoose/models/dishes.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-mongoose/server-3.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-mongoose/models/dishes-3.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-mongoose/models/dishes-1.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-mongoose/server-1.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-mongoose/server-2.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-mongodb/server.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-mongodb/operations.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-mongodb/simpleserver.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-mongodb/package.json",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-express-gen/routes/dishRouter.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-express-gen/routes/leaderRouter.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-express-gen/routes/promoRouter.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-express-gen/app.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-express/server.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-express/leaderRouter.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-express/promoRouter.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-express/server-4.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-express/dishRouter.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-examples/rectangle-2.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-examples/solve-3.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-express/server-1.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-express/server-2.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-express/server-3.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-http/public/server-2.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-http/public/aboutus.html",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-http/public/index.html",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-http/public/server-1.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-examples/solve-2.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-examples/simplerect.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-examples/rectangle-1.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/node-examples/solve-1.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/Ionic/conFusion/www/index.html",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/Ionic/conFusion/www/js/controllers.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/Ionic/conFusion/www/templates/register.html",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/Ionic/conFusion/www/js/services.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/Ionic/conFusion/config.xml",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/Ionic/conFusion/www/js/app.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/Ionic/conFusion/www/templates/sidebar.html",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/Ionic/conFusion/www/templates/dish-detail-popover.html",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/Ionic/conFusion/www/templates/dish-comment.html",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/Ionic/conFusion/www/templates/reserve.html",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/Ionic/conFusion/www/templates/dishdetail.html",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/Ionic/conFusion/www/templates/favorites.html",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/Ionic/conFusion/www/css/style.css",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/Ionic/conFusion/www/templates/contactus.html",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/Ionic/conFusion/www/templates/menu.html",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/Ionic/conFusion/www/templates/aboutus.html",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/Ionic/conFusion/www/templates/home.html",
+		"/C/Users/yopapajames/Documents/PythonPractice/StateCapitals.txt",
+		"/C/Users/yopapajames/Documents/PythonPractice/rodcut.py",
+		"/C/Users/yopapajames/Documents/PythonPractice/toy3.py",
+		"/C/Users/yopapajames/Documents/PythonPractice/toy2.py",
+		"/C/Users/yopapajames/Documents/PythonPractice/toy1.py",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/Ionic/json-server/db.json",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/conFusion/app/scripts/controllers.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/conFusion/app/scripts/services.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/conFusion/gulpfile.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/conFusion/app/views/home.html",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/conFusion/app/views/aboutus.html",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/conFusion/test/protractor.conf.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/conFusion/test/e2e/scenarios.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/conFusion/test/unit/controllers/menucontroller.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/conFusion/test/karma.conf.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/conFusion/app/index.html",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/conFusion/app/views/header.html",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/Course2/conFusion/index.html",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/conFusion/app/scripts/app.js",
+		"/C/Users/yopapajames/Documents/TheIronYard/E6CrashCourse/example.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/conFusion/app/views/dishdetail.html",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/conFusion/app/views/menu.html",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/conFusion/bower.json",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/conFusion/app/secondconFusionproject.sublime-project",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/conFusion/package.json",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/conFusion/app/views/footer.html",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/conFusion/app/views/contactus.html",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/conFusion/app/contactus.html",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/conFusion/app/menu.html",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/conFusion/app/dishdetail.html",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/conFusion/app/contact.html",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/conFusion/app/dishdetail1.html",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/Course2/conFusion/index1.html",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/conFusion/app/app1.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/conFusion/.jshintrc",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/conFusion/Gruntfile.js",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/Course2/conFusion/aboutus.html",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/Course2/conFusion/contactus.html",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/Course2/conFusion/css/mystyles.css",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/Course2/conFusion/css/mystyles.less",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/Course2/conFusion/css/mystyles-old.css",
+		"/C/Users/yopapajames/Documents/Coursera/FullStackWebDev/Course2/conFusion/aboutustabpanels.html",
+		"/C/Users/yopapajames/Documents/PersonalDocuments/Coursera/FullStackWebDev/Course2/conFusion/index1.html",
+		"/C/Users/yopapajames/Documents/PersonalDocuments/Coursera/FullStackWebDev/Course2/conFusion/aboutus.html",
+		"/C/Users/yopapajames/Documents/PersonalDocuments/Coursera/FullStackWebDev/Course1/Week3Assignment/part3.html",
+		"/C/Users/yopapajames/Documents/PersonalDocuments/Coursera/FullStackWebDev/Course1/Week3Assignment/part1.html",
+		"/C/Users/yopapajames/Documents/PersonalDocuments/Coursera/FullStackWebDev/Course1/Week3Assignment/part2.html",
+		"/C/Users/yopapajames/Documents/PersonalDocuments/Coursera/FullStackWebDev/Course1/Week3Assignment/part4.html",
+		"/C/Users/yopapajames/Documents/PersonalDocuments/Coursera/FullStackWebDev/Course2/FirstSublimeHTML.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"throw er",
+			"er",
+			"eader",
+			"leader",
+			"Leader",
+			"Dish",
+			"Dishes",
+			"dish",
+			"omolea",
+			"ish",
+			"promo",
+			"dish",
+			"morgan",
+			"menuFactory.getDishes()",
+			"commentForm",
+			"show",
+			"pop",
+			"fromTemp",
+			"menuContent",
+			"agree",
+			".html",
+			"menuF",
+			"contactus",
+			"contact",
+			"ishDetailController",
+			"menuCtrl.",
+			".menuCtrl",
+			"notify",
+			"login",
+			"reserve",
+			"remember",
+			"carousel-play"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3298,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1605,
+								1605
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 292.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "bower.json",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								237,
+								237
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1594,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								216,
+								216
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/css/app.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 411,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								211,
+								211
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Notes.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 710,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								325,
+								325
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 145.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "AdventureModeUI.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 125.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,47 @@
+Images- imagepad
+audio- whatevs api uses
+gps- 
+mapbox
+socket IO for posting data
+
+application focus
+d3 may or may not work- performance issues
+angular sure
+
+goddammit give up on Angular.. won't even work with the rest of javascript
+Socketio- use it 
+
+4glte
+
+Navigation API's 
+
+build a drone navigation jkjk
+
+can switch audio 
+
+ability to set navigation systems
+
+
+developer.gm/ngi -- use for support, some chat bubble
+appear.in/mhht
+
+
+also an open make night tomorrow
+
+
+UI
+
+start adventure mode
+
+need to save state for app restart
+
+cancel trip
+
+1 screen - start or stop
+2 screen - parameters for trip( num hours, num stops ), number of stars
+
+3 screen- route
+
+
+v1.4.9 for Angular
+0.2.14 for ui-router or 0.2.17
