@@ -41,3 +41,9 @@ html, body {
 #playground.hidden {
   display: none;
 }
+
+#close {
+  top: 80px;
+  position: absolute;
+  z-index: 1001;
+}

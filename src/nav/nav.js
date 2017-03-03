@@ -1,3 +1,7 @@
+function endNavigation() {
+  window.location = "../home.html"
+}
+
 function init() {
   var stops = [
     {

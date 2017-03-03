@@ -24,11 +24,11 @@
         <script src="vendor/leaflet/leaflet-src.js"></script>
 
         <script src="credentials.js"></script>
-        <script src="app.js"></script>
+        <script src="nav.js"></script>
     </head>
     <body onload="init()" style="">
-        <div id="continue"><img src="images/close.png" onclick="gm.system.closeApp()" alt="close"></div>
         <div id="loader">Wait for geolocation...</div>
+        <div id="close"><img src="../images/close.png" onclick="endNavigation()"></div>
         <div id="map"></div>
         <div id="playground" class="ffwdme-components-wrapper"></div>
     </body>

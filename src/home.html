@@ -4,21 +4,21 @@
     <title>AdventureModeUI</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-    <link rel="stylesheet" href="css/index.css" type="text/css">
+    <link rel="stylesheet" href="css/home.css" type="text/css">
     <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
     <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
-    <script src="js/index.js"></script>
+    <script src="js/home.js"></script>
+    <script src="GMLIB/system.js"></script>
 
   </head>
-  <body onload="splash(3000)">
+  <body>
     <div id="wrapper">
       <div id="main">
-        <div id="splashscreen">
-          <img src="images/hacked.jpg">
-        </div>\
+        <button onclick="newAdventure()">New Adventure</button>
+        <button onclick="gm.system.closeApp()">Exit</button>
       </div>
     </div>
   </body>

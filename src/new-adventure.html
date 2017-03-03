@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>AdventureModeUI</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="css/new-adventure.css" type="text/css">
+    <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+    <script src="js/new-adventure.js"></script>
+    <script src="GMLIB/system.js"></script>
+    <script src="GMLIB/info.js"></script>
+    <!-- <script src="GMLIB/comm.js"></script> -->
+    <!-- <script src="GMLIB/io.js"></script> -->
+    <!-- <script src="GMLIB/media.js"></script> -->
+    <!-- <script src="GMLIB/monitor.js"></script> -->
+    <!-- <script src="GMLIB/nav.js"></script> -->
+    <!-- <script src="GMLIB/phone.js"></script> -->
+    <!-- <script src="GMLIB/ui.js"></script> -->
+    <!-- <script src="GMLIB/util.js"></script> -->
+    <!-- <script src="GMLIB/voice.js"></script> -->
+
+  </head>
+  <body>
+    <div id="wrapper">
+      <div id="main">
+        <div data-role="rangeslider">
+          <label for="distance-min">Trip Distance (km):</label>
+          <input type="range" name="distance-min" id="distance-min" value="20" min="0" max="100">
+          <label for="distance-max">Trip Distance (km):</label>
+          <input type="range" name="distance-max" id="distance-max" value="80" min="0" max="100">
+        </div>
+        <button type="reset" onclick="startAdventure()">Start Adventure</button>
+        <button type="reset" onclick="cancel()">Cancel</button>
+      </div>
+    </div>
+  </body>
+</html>
