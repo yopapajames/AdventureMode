@@ -2,8 +2,22 @@ function endNavigation() {
   window.location = "../home.html"
 }
 
+function getQueryParameter(parameter) {
+  var query = window.location.search.substring(1);
+  var vars = query.split('&');
+  for (var i = 0; i < vars.length; i++) {
+    var pair = vars[i].split('=');
+    if (decodeURIComponent(pair[0]) == parameter) {
+      return decodeURIComponent(pair[1]);
+    }
+  }
+  console.log('Query parameter %s not found', variable);
+}
+
 function init() {
-  var stops = [
+  const distanceMin = getQueryParameter('distanceMin')
+  const distanceMax = getQueryParameter('distanceMax')
+  let stops = [
     {
       type: 'fuel', 
       coords: {
@@ -19,7 +33,7 @@ function init() {
       }
     }
   ]
-  var currentStop = null
+  let currentStop = null
 
   ffwdme.on('geoposition:init', function() {
     console.info("Waiting for initial geoposition...")
