@@ -5,19 +5,53 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
     <link rel="stylesheet" href="css/index.css" type="text/css">
-    <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+    <link rel="stylesheet" href="jquery/jquery.mobile-1.4.5.min.css">
+    <link rel="stylesheet" href="css/components.css" />
+    <link rel="stylesheet" href="css/debug.css" />
+    <link rel="stylesheet" href="css/leaflet.css">
+    <link rel="stylesheet" href="css/nav.css">
 
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-    <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+    <!-- <script src="http://192.168.2.50:8080/target/target-script-min.js"></script> -->
+    <script src="ffwdme-core.js"></script>
+    <script src="ffwdme-components.js"></script>
+    <script src="ffwdme-debug.js"></script>
+    <script src="vendor/zepto/zepto.js"></script>
+    <script src="vendor/leaflet/leaflet-src.js"></script>
+    <script src="credentials.js"></script>
+
+    <script src="jquery/jquery.min.js"></script>
+    <script src="jquery/jquery-1.11.3.min.js"></script>
+    <script src="jquery/jquery.mobile-1.4.5.min.js"></script>
     <script src="js/index.js"></script>
+    <script src="GMLIB/system.js"></script>
+    <script src="GMLIB/info.js"></script>
 
   </head>
   <body onload="splash(3000)">
     <div id="wrapper">
       <div id="main">
         <div id="splashscreen">
-          <img src="images/hacked.jpg">
+          <img src="images/splash.png">
+        </div>
+        <div id="homescreen">
+          <button id="tom" onmouseup="newAdventure()">New Adventure</button>
+          <button onmousedown="gm.system.closeApp()">Exit</button>
+        </div>
+        <div id="newadventurescreen">
+          <div data-role="rangeslider">
+            <label for="distance-min">Trip Distance (km):</label>
+            <input type="range" name="distance-min" id="distance-min" value="20" min="0" max="100">
+            <label for="distance-max">Trip Distance (km):</label>
+            <input type="range" name="distance-max" id="distance-max" value="80" min="0" max="100">
+          </div>
+          <button type="reset" onclick="startAdventure()">Start Adventure</button>
+          <button type="reset" onclick="cancelAdventure()">Cancel</button>
+        </div>
+        <div id="navscreen">
+          <div id="loader">Wait for geolocation...</div>
+          <div id="close"><img src="images/backarrow.png" onclick="endNavigation()"></div>
+          <div id="map"></div>
+          <div id="playground" class="ffwdme-components-wrapper"></div>
         </div>
       </div>
     </div>
